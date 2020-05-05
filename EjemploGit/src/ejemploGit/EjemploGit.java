@@ -7,7 +7,7 @@ public class EjemploGit {
           System.out.println("Hola Mundo");
           System.out.println("Soy Rosana");
           System.out.println("Mi primer push");
-          System.out.println("el 05/05/2020");
+          System.out.println("el 05/0/2020");
 	}
 
 }
